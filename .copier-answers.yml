@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.0.7
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: yogeshgjadhav.ygj@gmail.com
+author_name: Yogesh
+has_binder: false
+has_settings: false
+kind: theme
+labextension_name: carbon_dark_theme
+project_short_description: A JupyterLab theme extension which follows Carbon design
+    system guidelines.
+python_name: carbon_dark_theme
+repository: https://github.com/ygjadhav/jlab_carbon_dark_theme
+test: true
+
